@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3a0e0aab.css",
+    "main.js": "/static/js/main.19e057df.js",
+    "static/media/P1.jpg": "/static/media/P1.c3791ec1d46a63d9efb3.jpg",
+    "static/media/CompBGImg.jpg": "/static/media/CompBGImg.db98df306d3e2c0ce205.jpg",
+    "static/media/netflix.png": "/static/media/netflix.06cedf5ac39e556709b2.png",
+    "static/media/Ecommerce Cart.png": "/static/media/Ecommerce Cart.fc49284080a54ddd8f97.png",
+    "static/media/social-media.png": "/static/media/social-media.55d6ac3783eab895cee4.png",
+    "index.html": "/index.html",
+    "main.3a0e0aab.css.map": "/static/css/main.3a0e0aab.css.map",
+    "main.19e057df.js.map": "/static/js/main.19e057df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a0e0aab.css",
+    "static/js/main.19e057df.js"
+  ]
+}
