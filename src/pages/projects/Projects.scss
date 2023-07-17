@@ -1,0 +1,16 @@
+.projectcard-area{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    margin:60px auto;
+}
+
+@media screen and (max-width:740px){
+    .projectcard-area{
+        max-width:90%;
+        margin: auto;
+        display:flex;
+        flex-direction: column;
+    }
+    
+}

@@ -1,0 +1,34 @@
+.contactform{
+    width:40%;
+    height:100vh;
+    color:#eee;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30%;
+    padding:30px;
+    form{
+            justify-content: center;
+            display:flex;
+            flex-direction: column;
+            padding: 4rem 1rem;
+            margin: auto;
+            max-width: 600px;;
+            label{
+                margin:.5rem;
+                color:#fff;
+            }
+            input{
+                padding:.5rem;
+                margin-bottom:20px;
+            }
+
+            input,textarea{
+                margin-bottom: 1rem;
+                padding:10px 18px;
+                font-size: 1.2rem;
+                background-color: rgba($color: #ffffff, $alpha: .1);
+                color: #fff;
+
+            }
+        }
+    }
