@@ -14,10 +14,10 @@ const ProjectCard = (props) => {
       <p>
         {props.props.para}
       </p>
-      <div className="viewsource-btn">
+      {/* <div className="viewsource-btn">
         <Link className="btn">View</Link>
         <Link className="btn">Source</Link>    
-      </div>
+      </div> */}
       
     </div>
   );
